@@ -1,1 +1,3 @@
-# coding-project-template
+e-PlantShopping (Paradise Nursery Shopping Application) 
+
+a modern web application designed to provide users with a seamless and enjoyable online plant shopping experience. The app allows users to browse a variety of plants, view detailed product information, manage quantities, and track cart values in real time. With an intuitive user interface and efficient state management, Paradise Nursery makes discovering, selecting, and purchasing plants simple, fast, and user-friendly.
